@@ -1,2 +1,0 @@
-
-wget -q -O - "https://raw.githubusercontent.com/TshAkEAb/TshakeV2/main/install.txt" | bash;cd TshakeV2;python3.7 setup.py
